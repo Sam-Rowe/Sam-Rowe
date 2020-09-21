@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hi from Debian WSL2
+# Hi from Debian WSL2 using SSH
 
 <!--
 **Sam-Rowe/Sam-Rowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
