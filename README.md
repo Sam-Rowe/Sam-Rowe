@@ -1,8 +1,7 @@
 ### Hi there 👋
-# Hi from Debian WSL2 using SSH
+I am a Cloud Solution Architect at Microsoft but this is my GitHub account, views and these repos are my own. 
 
-
-A quick hello to Michael
+⚡ Fun fact: I am a major fan of motor racing in my very rare spare time. 
 
 <!--
 **Sam-Rowe/Sam-Rowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
