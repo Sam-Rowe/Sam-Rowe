@@ -1,7 +1,26 @@
 ### Hi there 👋
 I am a Cloud Solution Architect at Microsoft but this is my GitHub account, views and these repos are my own. 
 
+Working on many projects at once is my jam. My favourite projects:
+- [Dev Ops Map](https://github.com/Sam-Rowe/DevOps-Map)
+- [Dockerised FGallery](https://github.com/Sam-Rowe/docker-fgallery), which leverages some other awesome projects
+  - [Express Photo Gallery](https://github.com/timmydoza/express-photo-gallery)
+  - [Original dockerised FGallery](https://github.com/skorokithakis/docker-fgallery)
+- [Postman collection for Azure DevOps](https://github.com/hkamel/azuredevops-postman-collections)
+
+### People you should check out
+
+- [Eddie](https://github.com/eddiejaoude) You my good sir are a Legend. I am honnored to be able to contibute to your awesome projects! Thank you for pushing me to be more.
+
+- [Dave does demos](https://github.com/davedoesdemos) A collueage who has an amazing set of demos available for you to try!
+
+### Random other stuff
+
 ⚡ Fun fact: I am a major fan of motor racing in my very rare spare time. 
+
+Find me on Twitter: [@sam_rowe](http://twitter.com/sam_rowe)  
+Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/). 
+
 
 <!--
 **Sam-Rowe/Sam-Rowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
