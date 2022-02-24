@@ -7,6 +7,7 @@ Working on many projects at once is my jam. My favourite projects:
   - [Express Photo Gallery](https://github.com/timmydoza/express-photo-gallery)
   - [Original dockerised FGallery](https://github.com/skorokithakis/docker-fgallery)
 - [Postman collection for Azure DevOps](https://github.com/hkamel/azuredevops-postman-collections)
+- [Just Add A Picnic website](https://github.com/Sam-Rowe/justaddapicnic.com) or check out the live site [here](https://justaddapicnic.com/index.html)
 
 ### People you should check out
 
@@ -14,12 +15,18 @@ Working on many projects at once is my jam. My favourite projects:
 
 - [Dave does demos](https://github.com/davedoesdemos) A collueage who has an amazing set of demos available for you to try!
 
+- [Neil Kidd](https://github.com/neilkidd) A long time friend, awesome software craftsperson and general awesome person.
+
+- [April Edwards](https://github.com/scubaninja) If you haven't had a chance to follow April, go do it now. I'll wait. 
+
+- [Chris Reddington](https://github.com/chrisreddington) Cloud with Chris, all round tech person.
+
 ### Random other stuff
 
 ⚡ Fun fact: I am a major fan of motor racing in my very rare spare time. 
 
 Find me on Twitter: [@sam_rowe](http://twitter.com/sam_rowe)  
-Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/). 
+Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/)
 
 
 <!--
