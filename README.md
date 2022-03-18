@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Cloud Solution Architect at Microsoft but this is my GitHub account, views and these repos are my own. 
 
-Working on many projects at once is my jam. My favourite projects:
+Working on many projects at once is my jam. a few of my side projects:
 - [Dev Ops Map](https://github.com/Sam-Rowe/DevOps-Map)
 - [Dockerised FGallery](https://github.com/Sam-Rowe/docker-fgallery), which leverages some other awesome projects
   - [Express Photo Gallery](https://github.com/timmydoza/express-photo-gallery)
@@ -20,6 +20,8 @@ Working on many projects at once is my jam. My favourite projects:
 - [April Edwards](https://github.com/scubaninja) If you haven't had a chance to follow April, go do it now. I'll wait. 
 
 - [Chris Reddington](https://github.com/chrisreddington) Cloud with Chris, all round tech person.
+
+- [Sam Aaron](https://github.com/samaaron) Genius behind [Sonic Pi](https://sonic-pi.net/)
 
 ### Random other stuff
 
