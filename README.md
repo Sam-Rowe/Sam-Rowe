@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a Cloud Solution Architect at Microsoft but this is my GitHub account, views and these repos are my own. 
+I am a Customer Success Architect at GitHub. 
+This is my GitHub account, views and these repos are my own. 
 
 Working on many projects at once is my jam. a few of my side projects:
 - [Dev Ops Map](https://github.com/Sam-Rowe/DevOps-Map)
