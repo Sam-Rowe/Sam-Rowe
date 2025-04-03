@@ -2,13 +2,7 @@
 I am a Customer Success Architect at GitHub. 
 This is my GitHub account, views and these repos are my own. 
 
-Working on many projects at once is my jam. a few of my side projects:
-- [Dev Ops Map](https://github.com/Sam-Rowe/DevOps-Map)
-- [Dockerised FGallery](https://github.com/Sam-Rowe/docker-fgallery), which leverages some other awesome projects
-  - [Express Photo Gallery](https://github.com/timmydoza/express-photo-gallery)
-  - [Original dockerised FGallery](https://github.com/skorokithakis/docker-fgallery)
-- [Postman collection for Azure DevOps](https://github.com/hkamel/azuredevops-postman-collections)
-- [Just Add A Picnic website](https://github.com/Sam-Rowe/justaddapicnic.com) or check out the live site [here](https://justaddapicnic.com/index.html)
+- [App Ideas](https://github.com/sam-rowe/app-ideas/) a repo I forked from https://github.com/florinpop17/app-ideas/ to start a video series with staring Copilot :) 
 
 ### People you should check out
 
@@ -30,6 +24,7 @@ Working on many projects at once is my jam. a few of my side projects:
 
 Find me on Twitter: [@sam_rowe](http://twitter.com/sam_rowe)  
 Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/)
+Find me on YT: [SamuelRowe](https://www.youtube.com/channel/UCMxI6IoZlCl-HjlqzJMTS1w) @samuelrowe6912
 
 
 <!--
