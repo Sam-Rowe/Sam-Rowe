@@ -22,9 +22,9 @@ This is my GitHub account, views and these repos are my own.
 
 ⚡ Fun fact: I am a major fan of motor racing in my very rare spare time. 
 
-Find me on Twitter: [@sam_rowe](http://twitter.com/sam_rowe)  
-Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/)
-Find me on YT: [SamuelRowe](https://www.youtube.com/channel/UCMxI6IoZlCl-HjlqzJMTS1w) @samuelrowe6912
+- Find me on Twitter: [@sam_rowe](http://twitter.com/sam_rowe)  
+- Find me on LinkedIn: [Samuel Rowe](https://www.linkedin.com/in/samuelcprowe/)
+- Find me on YT: [SamuelRowe](https://www.youtube.com/channel/UCMxI6IoZlCl-HjlqzJMTS1w) @samuelrowe6912 
 
 
 <!--
