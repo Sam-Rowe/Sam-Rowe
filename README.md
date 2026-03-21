@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Customer Success Architect at GitHub. 
+I am Senior Manager of Customer Success Architecture for the EMEA region at GitHub. 
 This is my GitHub account, views and these repos are my own. 
 
 - [App Ideas](https://github.com/sam-rowe/app-ideas/) a repo I forked from https://github.com/florinpop17/app-ideas/ to start a video series with staring Copilot :) 
