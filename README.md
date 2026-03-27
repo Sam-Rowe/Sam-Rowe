@@ -2,6 +2,10 @@
 I am Senior Manager of Customer Success Architecture for the EMEA region at GitHub. 
 This is my GitHub account, views and these repos are my own. 
 
+- [A short book I wrote on large scale code change with GitHub Copilot](https://github.com/Sam-Rowe/GitHub-Copilot-large-scale-code-change)
+
+- [A library for I-Ching written in Swift](https://github.com/Sam-Rowe/IChing-Swift-Library)
+
 - [App Ideas](https://github.com/sam-rowe/app-ideas/) a repo I forked from https://github.com/florinpop17/app-ideas/ to start a video series with staring Copilot :) 
 
 ### People you should check out
